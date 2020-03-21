@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'DejaVu Sans';
+    src: url('fonts/dejavu-sans-webfont.woff2') format('woff2'),
+         url('fonts/dejavu-sans-webfont.woff') format('woff');
+}
